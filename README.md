@@ -1,1 +1,1 @@
-![image](https://github.com/TinitaQA/docker/raw/master/img_1.png)
+![image](https://github.com/TinitaQA/tinitaqa/raw/20b1e71f08b704f2e5a86fca7e86ae13f2672dfb/images/image.png)
